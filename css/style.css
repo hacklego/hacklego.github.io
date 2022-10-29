@@ -1,4 +1,9 @@
 @font-face { font-family: xkcd; src: url('../fonts/xkcd.otf'); } 
 body {
-    font-family: xkcd
+    font-family: xkcd;
+    color: white;
+    background: black;
+}
+a {
+    color: white;
 }
